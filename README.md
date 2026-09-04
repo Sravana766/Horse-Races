@@ -52,7 +52,7 @@ Two CSV files were used:
 
 ## Repository Contents
 
-- `WAF_Semester2_code.html` — Full notebook (exported as HTML) containing the analysis, code, and visualizations
+- `horse_race_finish_time_prediction.ipynb` — Full notebook (exported as HTML) containing the analysis, code, and visualizations
 
 ## Notes
 
